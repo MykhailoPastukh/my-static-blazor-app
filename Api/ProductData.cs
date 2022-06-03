@@ -21,8 +21,8 @@ public class ProductData : IProductData
             new Product
             {
                 Id = 10,
-                Name = "Strawberries",
-                Description = "16oz package of fresh organic strawberries",
+                Name = "Bananas",
+                Description = "16oz of Bananas",
                 Quantity = 1
             },
             new Product
